@@ -1,0 +1,30 @@
+navbar{
+    background-color: black;
+
+}
+nav ul{
+    overflow: auto;
+}
+
+nav li{
+    float: left;
+    list-style: none;
+    padding: 15px 60px;
+}
+nav li a{
+    text-decoration: none;
+    color: rgba(220, 10, 220, 0.967);
+    
+}
+input{
+    
+    margin: 10px;
+    border: 2px solid  rgba(220, 10, 220, 0.967);
+    border-radius: 7px;
+}
+a:hover{
+      color:rgba(59, 3, 83, 0.951);
+      background-color: white;
+      border-radius: 6px;
+      
+}
